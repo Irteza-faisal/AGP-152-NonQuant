@@ -5,18 +5,18 @@ A web-based application that predicts a person's age and gender from a facial im
 **MODEL**: ResNet152 (Non Quantised)
 **WEBSITE LINK**: https://agp-152-non-quantised.web.app
 
----
 
-## 🚀 Features
+
+## Features
 
 - **Real-Time Predictions**: Utilizes a pre-trained ResNet model converted to TensorFlow.js for instant age and gender predictions in the browser.
 - **Edge Deployment**: Runs entirely on the client-side, ensuring user privacy and eliminating server dependencies.
 - **Firebase Hosting**: Seamless deployment and hosting using Firebase, providing a scalable and reliable platform for the application.
 - **User-Friendly Interface**: Simple and intuitive UI built with HTML, CSS, and JavaScript.
 
----
 
-## 📁 Project Structure
+
+## Project Structure
 
 ```
 age-gender-predictor/
@@ -32,9 +32,9 @@ age-gender-predictor/
 └── README.md             # Project documentation
 ```
 
----
 
-## 🛠️ Installation & Setup
+
+## Installation & Setup
 
 1. **Clone the Repository**:
    ```bash
@@ -66,9 +66,9 @@ age-gender-predictor/
    firebase deploy
    ```
 
----
 
-## 🔍 Usage
+
+## Usage
 
 1. **Access the Application**:
    Open the deployed Firebase URL in your browser.
@@ -79,27 +79,27 @@ age-gender-predictor/
 3. **View Predictions**:
    The application will display the predicted age and gender based on the uploaded image.
 
----
 
-## 🤖 Model Details
+
+## Model Details
 
 - **Architecture**: ResNet model converted to TensorFlow.js format.
 - **Functionality**: Processes facial images to predict age and gender.
 - **Deployment**: Optimized for client-side inference using TensorFlow.js.
 
----
 
-## 📄 License
+
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-## 🙏 Acknowledgements
+
+## Acknowledgements
 
 - Inspired by research in age and gender prediction using deep convolutional neural networks and transfer learning.
 - Utilizes Firebase for hosting and deployment.
 
----
+
 
 For more information, visit the [GitHub Repository](https://github.com/Irteza-faisal/AGP-152-NonQuant).
