@@ -2,7 +2,7 @@
 
 A web-based application that predicts a person's age and gender from a facial image using a TensorFlow.js model. The application is hosted on Firebase, enabling real-time inference directly in the browser without the need for server-side computation.
 
-**MODEL**: ResNet152 (Non Quantised)
+**MODEL**: ResNet152 (Non Quantised)<br>
 **WEBSITE LINK**: https://agp-152-non-quantised.web.app
 
 
